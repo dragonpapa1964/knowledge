@@ -1,0 +1,1 @@
+pip install streamlit streamlit-chat langchain openai python-dotenv
